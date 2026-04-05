@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.server</groupId>
-	<artifactId>DiscoveryServer</artifactId>
+	<artifactId>DiscoveryServerJWT</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>DiscoveryServer</name>
+	<name>DiscoveryServerJWT</name>
 	<description/>
 	<url/>
 	<licenses>
